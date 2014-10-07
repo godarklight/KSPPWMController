@@ -1,0 +1,7 @@
+*.orig
+*.dll
+*.userprefs
+KSPPWMController/bin/*
+KSPPWMController/obj/*
+*.suo
+*.csproj.user
